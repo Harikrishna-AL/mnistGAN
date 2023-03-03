@@ -1,8 +1,7 @@
 # GAN using MNIST dataset
 - ### GAN Architecture
    GAN consist of 
-- ### accuracy graph
-  <img src="./acc_graph.png">
+
 - ### GAN output
   <img src="./output.jpg">
 - ### Common problems faced by GAN
